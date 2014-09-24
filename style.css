@@ -1,0 +1,32 @@
+html{
+ background-image: url("bluefade.png");
+    background-repeat: repeat-x;
+
+
+}
+
+
+body {
+    background-color: white;
+margin: 20px auto;
+width: 960px;
+padding: 20px;
+height: 1500px;
+border-style: solid;
+margin-top: 70px;
+}
+
+h1 {
+    margin-bottom: 5px;
+    padding: 10px;
+}
+
+hr{
+    border-color: black;
+    height: 3px;
+    background-color: black;
+}
+
+table{
+    
+}
