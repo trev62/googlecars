@@ -17,7 +17,7 @@ body.home {
 margin: 20px auto;
 width: 960px;
 padding: 20px;
-height: 800px;
+height: 850px;
 border-style: solid;
 margin-top: 70px;
 }
@@ -34,11 +34,10 @@ hr{
     height: 3px;
     background-color: black;
 }
-img{
+img.main{
     position: absolute;
     left: 300px;
-    top: 400px;
-    margin-top: 60px;
+    top: 550px;
     border: black solid;
 }
 
